@@ -1,6 +1,6 @@
 # Visualising-Geo-location-clusters
 
-# This code is for an interactive map with clustered markers, where each cluster represents a group of customers with similar latitude and longitude values. The map can be opened in a web browser, and users can explore the clusters and individual customer markers.
+# This code is for an interactive map with clustered markers, where each cluster represents a group of customers  with similar latitude and longitude values. The map can be opened   in a web browser, and users can explore the clusters and individual customer markers.
 
 # Data Loading and Exploration:
 
